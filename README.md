@@ -32,6 +32,8 @@ The practice of using a network of remote servers hosted on the internet to stor
 
 
 ### Types of cloud computing
+
+![](images/1.png)
 #### Software as a service (SaaS) for customers
 - A completed product that is run and managed by the service provider
 #### Platform as a service (Paas) for developers
