@@ -69,3 +69,21 @@ The practice of using a network of remote servers hosted on the internet to stor
 -	Public sector e.g. government
 -	Super Sensitive data e.g. Hospitals
 -	Large enterprise with heavy regulation e.g. insurance company’s
+
+![](images/3.png)
+
+#### Regions
+
+![](images/4.png)
+
+#### Availability Zones
+
+![](images/5.png)
+
+#### Edge Locations
+
+![](images/6.png)
+
+#### Govcloud
+
+![](images/7.png)
