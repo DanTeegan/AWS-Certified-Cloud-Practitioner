@@ -40,3 +40,30 @@ The practice of using a network of remote servers hosted on the internet to stor
 - Removes the need for your organization to manage the underlying infrastructure. Focus on the deployment and management of your applications
 #### Infrastructure as a service (IaaS) For Admins
 - The basic building blocks for cloud IT. Provides access to networking features computers and data storage space
+
+### Cloud computing deployment models
+
+#### Cloud
+-	Fully utilizing cloud computing
+
+#### Who would use cloud?
+-	Start-ups
+-	SaaS offering
+-	New projects and company’s
+
+#### Hybrid
+-	Use both cloud and on-premise
+
+#### Who would use hybrid?
+-	Banks
+-	Fintech, investment management
+-	Large professional service providers
+-	Legacy on-premise 
+
+#### On-Premise
+-	Deploying resources on-premises, using virtualization and resource management tools. This is sometimes called “Private cloud”
+
+#### Who would use on-premise (Private cloud)
+-	Public sector e.g. government
+-	Super Sensitive data e.g. Hospitals
+-	Large enterprise with heavy regulation e.g. insurance company’s
