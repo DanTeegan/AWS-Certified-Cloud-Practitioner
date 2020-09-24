@@ -43,6 +43,8 @@ The practice of using a network of remote servers hosted on the internet to stor
 
 ### Cloud computing deployment models
 
+
+![](images/2.png)
 #### Cloud
 -	Fully utilizing cloud computing
 
