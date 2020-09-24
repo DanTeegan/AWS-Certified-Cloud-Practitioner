@@ -41,7 +41,7 @@ The practice of using a network of remote servers hosted on the internet to stor
 #### Infrastructure as a service (IaaS) For Admins
 - The basic building blocks for cloud IT. Provides access to networking features computers and data storage space
 
-### Cloud computing deployment models
+# Cloud computing deployment models
 
 
 ![](images/2.png)
@@ -72,18 +72,18 @@ The practice of using a network of remote servers hosted on the internet to stor
 
 ![](images/3.png)
 
-#### Regions
+# Regions
 
 ![](images/4.png)
 
-#### Availability Zones
+# Availability Zones
 
 ![](images/5.png)
 
-#### Edge Locations
+# Edge Locations
 
 ![](images/6.png)
 
-#### Govcloud
+# Govcloud
 
 ![](images/7.png)
