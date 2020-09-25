@@ -127,6 +127,14 @@ The practice of using a network of remote servers hosted on the internet to stor
 
 ![](images/8.png)
 
+Then click on next to add permissions. In my case I have no groups so I will create a new group.
 
+### Using groups to assign permissions 
 
+Here we can add certain permissions to our new account. These could be anything dependant on the job that is required. For this demo I added full Admin access. Power user is fairly similar to Admin with a few rights removed 
+
+![](images/9.png)
+
+Carry on following the prompts and your account should be succesfully created
+![](images/10.png)
 
