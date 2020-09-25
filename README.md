@@ -135,6 +135,16 @@ Here we can add certain permissions to our new account. These could be anything 
 
 ![](images/9.png)
 
-Carry on following the prompts and your account should be succesfully created
+#### Carry on following the prompts and your account should be succesfully created
+
 ![](images/10.png)
 
+### Apply an IAM password policy
+
+##### This can be done by simply clicking on account settings > add password policy
+
+##### This is the last task needed for the IAM security status to show all green ticks
+
+![](images/11.png)
+
+##### From here on out, it is advised to used the IAM accounts generated rather than the root AWS account
