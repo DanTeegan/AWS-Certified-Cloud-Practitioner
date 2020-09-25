@@ -1,3 +1,32 @@
+
+# Introduction
+Domain 1: Cloud Concepts - 28%
+- Define the AWS cloud
+- Identify aspects of the AWS Cloud economics
+- Describe different cloud architecture design principles
+
+Domain 2: Security and Compliance - 24%
+- Define AWS shared responsibility model
+- Define AWS Cloud Security and compliance concepts
+- Identify AWS access management capabilities
+- Identify resources for security support
+
+Domain 3: Technology - 36%
+- Define method of deploying and operating IT applications in the AWS cloud
+- Define AWS global infrastructure
+- Identify the core AWS services
+- Identify ways to contact support
+
+Domain 4: Billing and Pricing - 12% but tricky
+- Remember different pricing models for AWS
+- Recognise various account structures in AWS billing and pricing
+- Identify resources available for billing support
+
+Exam Prep
+- AWS Training - aws.amazon.com/training
+- AWS Whitepaper - aws.amazon.com/whitepapers
+
+
 # AWS What is cloud computing?
 The practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than a local server or a personal computer
 
@@ -87,3 +116,17 @@ The practice of using a network of remote servers hosted on the internet to stor
 # Govcloud
 
 ![](images/7.png)
+
+# Identity and access management (IAM)
+
+### Activating Multi-factor authentication (MFA)
+-	This adds an extra layer of security for our AWS root account. To activate MFA I used google authenticator.
+
+### Creating individual IAM users
+- Manage users > add user > Enter information 
+
+![](images/8.png)
+
+
+
+
