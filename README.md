@@ -148,3 +148,17 @@ Here we can add certain permissions to our new account. These could be anything 
 ![](images/11.png)
 
 ##### From here on out, it is advised to used the IAM accounts generated rather than the root AWS account
+
+### Creating a EC2 Instance
+This can be done by simply clicking on Instances > Launch Instance
+
+### Session manager
+Sessions manager can be used to gain access to the Instance instead of using a SSH connection. It allow for more transpaerncy of how the servers are being used as each session is recorded
+### AMI
+Used to create a blueprint of a instance
+
+```
+Actions > Image > Create Image
+```
+
+### Auto scaling groups
