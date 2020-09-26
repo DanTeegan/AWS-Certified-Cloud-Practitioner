@@ -162,3 +162,20 @@ Actions > Image > Create Image
 ```
 
 ### Auto scaling groups
+
+#### It allows you to ensure that multiple instances or servers are running. Guarantees that at least one server is always running, if not a new server will automatically be created. Auto scaling groups will also determine based on certain metrics how many servers are being spun up. I.E. on football matchdays more servers may be used as the traffic will be increase. During Covid times less servers will be used as there is less traffic.
+
+#### First we must set up a launch configuration, then we can move onto the auto scaling groups
+
+#### To set up a auto scaling groups click on auto scaling > create auto scaling group
+
+#### By creating both a launch configuration and auto scaling group it allows for instances to automatically be spun up whenever an instance is deemed unhealthy. For this example I used a maximum and minimum server number of 1, so every time the healthy instance becomes unhealthy a completely new server will spin up.
+
+### Load balancer
+
+#### Types of load balacer
+- Application load balancer
+- Network load balancer
+- Classic load balancer
+
+### S3
