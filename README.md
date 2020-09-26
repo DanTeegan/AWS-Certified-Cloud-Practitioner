@@ -178,4 +178,11 @@ Actions > Image > Create Image
 - Network load balancer
 - Classic load balancer
 
-### S3
+### Simple Storage Service (S3)
+
+S3 is global and does not require a region.
+
+An Amazon S3 bucket is a public cloud storage resource available in Amazon Web Services' (AWS) Simple Storage Service (S3), an object storage offering. Amazon S3 buckets, which are similar to file folders, store objects, which consist of data and its descriptive metadata.
+
+### CloudFront
+
