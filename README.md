@@ -186,3 +186,5 @@ An Amazon S3 bucket is a public cloud storage resource available in Amazon Web S
 
 ### CloudFront
 
+
+### Taking the exam
