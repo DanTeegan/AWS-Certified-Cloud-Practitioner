@@ -1,4 +1,4 @@
-# AWS cloud practitioner course
+## AWS cloud practitioner course
 # Introduction
 Domain 1: Cloud Concepts - 28%
 - Define the AWS cloud
